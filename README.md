@@ -10,8 +10,19 @@ Tata cara memulai menggunakan Pomokit
 3. lalu buka pomodoro.exe atau file yang unduh tadi
 4. bila pertama kali membuka pomokit nya, maka membutuhkan login masuk WA menggunakan QR
 5. masukkan grup id yang digunakan untuk mengirim pelaporan pomodoro anda(anda bisa menggunakan perintah "myika minta grub id" untuk mendapat grub id nya)
-6. Lalu, masukkan url yang akan dikerjakan, 
+6. Lalu, masukkan satu url yang akan dikerjakan, 
 contohnya : https://pomokit.github.io/pomodoro/
+contoh lainnya :
+- https://pomokit.my.id
+- https://pomokit.google.com
+- https://cdn.jsdelivr.net/npm/pomokit@latest
+- https://pkg.go.dev/github.com/pomokit/pomokit
+- https://www.npmjs.org/package/pomokit
+- https://pypi.org/project/pomokit
+- https://packagist.org/packages/pomokit
+- https://pomokit.my.id
+- https://pomokit.me/somepage
+
 7. ketik tugas yang akan dikerjakan 
 contoh :perbaiki css, pembuatan controller
 8. harap digunakan sepanjang proses pekerjaan kalian, hingga ada kalimat "Tekan Ctrl+C untuk keluar aplikasi" maka silahkan dilakukan tekan ctrl +C
