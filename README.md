@@ -5,7 +5,7 @@ penggunaan pomokit
 Tata cara memulai menggunakan Pomokit
 
 1. pertama-tama unduh [pomokit](https://github.com/pomokit/pomodoro/releases/latest/download/pomodoro.exe) terlebih dahulu
-2. siapkan folder dan letakkan didalam file yang anda untuk di langkah pertama
+2. siapkan folder dan letakkan didalam file yang anda unduh di langkah pertama
 ![image](https://github.com/user-attachments/assets/d48e81c5-71d8-4b07-b684-519eb141d362)
 3. lalu buka pomodoro.exe atau file yang unduh tadi
 4. bila pertama kali membuka pomokit nya, maka membutuhkan login masuk WA menggunakan QR
