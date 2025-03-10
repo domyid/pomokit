@@ -14,3 +14,6 @@ Tata cara memulai menggunakan Pomokit
 contohnya : https://pomokit.github.io/pomodoro/
 7. ketik tugas yang akan dikerjakan 
 contoh :perbaiki css, pembuatan controller
+8. harap digunakan sepanjang proses pekerjaan kalian, hingga ada kalimat "Tekan Ctrl+C untuk keluar aplikasi" maka silahkan dilakukan tekan ctrl +C
+![WhatsApp Image 2025-03-05 at 17 47 12_652c51db](https://github.com/user-attachments/assets/52b9e26f-cf1c-48a5-ba96-58286d3f24c3)
+9. bilang ingin melanjutkan pekerjaan lagi silahkan dibuka kembali dan diulang kembali dari tahap 4
