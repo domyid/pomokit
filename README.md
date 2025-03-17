@@ -5,27 +5,19 @@ penggunaan pomokit
 Tata cara memulai menggunakan Pomokit
 
 1. pertama-tama unduh [pomokit](https://github.com/pomokit/pomodoro/releases/latest/download/pomodoro.exe) terlebih dahulu
-2. siapkan folder dan letakkan didalam file yang anda unduh tadi di langkah pertama
+2. siapkan folder dan letakkan didalam file yang anda unduh tadi di langkah pertama (pastikan isi folder tersebut kosong ya)
 ![image](https://github.com/user-attachments/assets/d48e81c5-71d8-4b07-b684-519eb141d362)
 3. lalu buka pomodoro.exe atau file yang unduh tadi
 4. bila pertama kali membuka pomokit nya, maka membutuhkan login masuk WA menggunakan QR
 5. masukkan grup id yang digunakan untuk mengirim pelaporan pomodoro anda(anda bisa menggunakan perintah "myika minta grub id" untuk mendapat grub id nya)
-6. Lalu, masukkan satu url yang akan dikerjakan, 
-contohnya : https://pomokit.github.io/pomodoro/
-contoh lainnya :
-- https://pomokit.my.id
-- https://pomokit.google.com
-- https://cdn.jsdelivr.net/npm/pomokit@latest
-- https://pkg.go.dev/github.com/pomokit/pomokit
-- https://www.npmjs.org/package/pomokit
-- https://pypi.org/project/pomokit
-- https://packagist.org/packages/pomokit
-- https://pomokit.my.id
-- https://pomokit.me/somepage
+6. Lalu, masukkan url yang pekerjaan anda yang telah dinilai oleh gtmetix, bila belum anda bisa memasukkanya url biasa terlebih dahulu
+contohnya : https://gtmetrix.com/reports/pomokit.github.io/3rZTXed1/
+bila anda bingung cara mendapatkan url nya, bisa anda lihat kesini untuk cara penggunaanya
+http://www.do.my.id/gtmetrix/
 
-7. ketik tugas yang akan dikerjakan, bila tugas lebih dari 1 gunakan tanda ","
+8. ketik tugas yang akan dikerjakan, bila tugas lebih dari 1 gunakan tanda ","
 contoh : perbaiki css, pembuatan controller
-8. harap di cek versi pomodoro yang tertera sebelum digunakan, untuk saat ini di versi 1.0.1. Jadi bila nemiliki versi yang berbeda harap di unduh melalui link yang dicantumkan di langkah pertama
+9. harap di cek versi pomodoro yang tertera sebelum digunakan, untuk saat ini di versi 0.2.3. Jadi bila nemiliki versi yang berbeda, harap di unduh melalui link yang dicantumkan di langkah pertama
 
 ![image](https://github.com/user-attachments/assets/63217290-5076-47c7-8990-19063156086f)
 
