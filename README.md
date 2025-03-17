@@ -10,8 +10,10 @@ Tata cara memulai menggunakan Pomokit
 3. lalu buka pomodoro.exe atau file yang unduh tadi
 4. bila pertama kali membuka pomokit nya, maka membutuhkan login masuk WA menggunakan QR
 5. masukkan grup id yang digunakan untuk mengirim pelaporan pomodoro anda(anda bisa menggunakan perintah "myika minta grub id" untuk mendapat grub id nya)
-6. Lalu, masukkan url yang pekerjaan anda yang telah dinilai oleh gtmetix, bila belum anda bisa memasukkanya url biasa terlebih dahulu
+6. Lalu, masukkan url yang pekerjaan anda yang telah dinilai oleh gtmetix, bila belum memiliki url hasil gtmetrix, bisa memasukkanya url biasa terlebih dahulu
+   
 contohnya : https://gtmetrix.com/reports/pomokit.github.io/3rZTXed1/
+
 bila anda bingung cara mendapatkan url nya, bisa anda lihat kesini untuk cara penggunaanya
 http://www.do.my.id/gtmetrix/
 
