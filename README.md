@@ -15,8 +15,7 @@ Tata cara memulai menggunakan Pomokit
 contohnya : https://gtmetrix.com/reports/pomokit.github.io/3rZTXed1/
 
 bila anda bingung cara mendapatkan url nya, bisa anda lihat kesini untuk cara penggunaanya
-[http://www.do.my.id/gtmetrix/
-](http://www.do.my.id/gtmetrix/)
+[http://www.do.my.id/gtmetrix/](http://www.do.my.id/gtmetrix/)
 
 7. ketik tugas yang akan dikerjakan, bila tugas lebih dari 1 gunakan tanda ","
 contoh : perbaiki css, pembuatan controller
