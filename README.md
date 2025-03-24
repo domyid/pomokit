@@ -1,5 +1,5 @@
-# pomokit
-penggunaan pomokit
+# Pomokit
+Disini adalah penjelasan penggunaan pomokit untuk melakukan pekerjaan tugas
 
 # Versi terbaru saat ini 0.2.4
 
