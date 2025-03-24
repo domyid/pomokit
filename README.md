@@ -18,12 +18,12 @@ bila anda bingung cara mendapatkan url nya, bisa anda lihat kesini untuk cara pe
 [http://www.do.my.id/gtmetrix/
 ](http://www.do.my.id/gtmetrix/)
 
-8. ketik tugas yang akan dikerjakan, bila tugas lebih dari 1 gunakan tanda ","
+7. ketik tugas yang akan dikerjakan, bila tugas lebih dari 1 gunakan tanda ","
 contoh : perbaiki css, pembuatan controller
-9. harap di cek versi pomodoro yang tertera sebelum digunakan, untuk saat ini di versi 0.2.3. Jadi bila nemiliki versi yang berbeda, harap di unduh melalui link yang dicantumkan di langkah pertama
+8. harap di cek versi pomodoro yang tertera sebelum digunakan, untuk saat ini di versi 0.2.4. Jadi bila nemiliki versi yang berbeda, harap di unduh melalui link yang dicantumkan di langkah pertama
 
 ![image](https://github.com/user-attachments/assets/63217290-5076-47c7-8990-19063156086f)
 
-10. Harap digunakan sepanjang proses pekerjaan kalian, hingga ada kalimat "Tekan Ctrl+C untuk keluar aplikasi" maka sudah terhitung 1 cycle dan silahkan dilakukan tekan ctrl +C
+9. Harap digunakan sepanjang proses pekerjaan kalian, hingga ada kalimat "Tekan Ctrl+C untuk keluar aplikasi" maka sudah terhitung 1 cycle dan silahkan dilakukan tekan ctrl +C
 ![WhatsApp Image 2025-03-05 at 17 47 12_652c51db](https://github.com/user-attachments/assets/52b9e26f-cf1c-48a5-ba96-58286d3f24c3)
-11. bila ingin melanjutkan pekerjaan lagi silahkan dibuka kembali dan diulang kembali dari tahap 4
+10. bila ingin melanjutkan pekerjaan lagi silahkan dibuka kembali dan diulang kembali dari tahap 4
