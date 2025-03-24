@@ -24,15 +24,13 @@ bila anda bingung cara mendapatkan url nya, bisa anda lihat kesini untuk cara pe
 6. ketik tugas yang akan dikerjakan, bila tugas lebih dari 1 gunakan tanda ","
 ![image](https://github.com/user-attachments/assets/7168b6ef-06fd-4cc4-b339-9e708205ed7d)
 contoh : perbaiki css, pembuatan controller
-7. bila pertama kali membuka pomokit nya, maka membutuhkan login masuk WA menggunakan QR
+7. bila semua sudah diisi dengan benar, maka selanjutnya tahap masuk whatsapp, bila pertama kali membuka pomokit nya, maka membutuhkan login masuk WA menggunakan QR
 ![image](https://github.com/user-attachments/assets/55da9159-7644-4c65-8093-1abd2322d79e)
 8. harap di cek versi pomodoro yang tertera sebelum digunakan, untuk saat ini di versi 0.2.4. Jadi bila nemiliki versi yang berbeda, harap di unduh melalui link yang dicantumkan di langkah pertama
-
 ![image](https://github.com/user-attachments/assets/63217290-5076-47c7-8990-19063156086f)
-
-8. Harap digunakan sepanjang proses pekerjaan kalian, hingga ada kalimat "Tekan Ctrl+C untuk keluar aplikasi" maka sudah terhitung 1 cycle dan silahkan dilakukan tekan ctrl +C
+9. Harap digunakan sepanjang proses pekerjaan kalian, hingga ada kalimat "Tekan Ctrl+C untuk keluar aplikasi" maka sudah terhitung 1 cycle dan silahkan dilakukan tekan ctrl +C
 ![WhatsApp Image 2025-03-05 at 17 47 12_652c51db](https://github.com/user-attachments/assets/52b9e26f-cf1c-48a5-ba96-58286d3f24c3)
-9. bila ingin melanjutkan pekerjaan lagi silahkan dibuka kembali dan diulang kembali dari tahap 4
+10. bila ingin melanjutkan pekerjaan lagi silahkan dibuka kembali dan diulang kembali dari tahap 4
 
 
 Tata cara untuk update pomokit dan mengganti akun whatsapp yang sudah login pada pomokit
