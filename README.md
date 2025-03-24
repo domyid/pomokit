@@ -1,14 +1,14 @@
 # pomokit
 penggunaan pomokit
 
-Versi terbaru saat ini 0.2.4
+# Versi terbaru saat ini 0.2.4
 
 Syarat - Syarat untuk menggunakan nya :
 1. pastikan hanya 1 nomor whatsapp yang digunakan untuk pomodoro sama dengan nomor whatsapp yang kalian gunakan di [https://do.my.id/](https://do.my.id/)
 2. Lengkapi data kalian di [https://do.my.id/](https://do.my.id/), seperti NPM, email, dan usernamegithub. bila tidak lengkap, maka data atau nilai kalian tidak akan terinput
 3. Terakhir pastikan kalian mengunduh versi pomokit yang terbaru
 
-Tata cara memulai menggunakan Pomokit
+# Tata cara memulai menggunakan Pomokit
 
 1. pertama-tama unduh [pomokit](https://github.com/pomokit/pomodoro/releases/latest/download/pomodoro.exe) terlebih dahulu
 2. siapkan folder dan letakkan didalam file yang anda unduh tadi di langkah pertama (pastikan isi folder tersebut kosong ya)
@@ -34,7 +34,7 @@ contoh : perbaiki css, pembuatan controller
 9. bila ingin melanjutkan pekerjaan lagi silahkan dibuka kembali dan diulang kembali dari tahap 4
 
 
-Tata cara untuk update pomokit dan mengganti akun whatsapp yang sudah login pada pomokit
+# Tata cara untuk update pomokit dan mengganti akun whatsapp yang sudah login pada pomokit
 
 1. Hapus semua file didalam folder pomodoro.exe
 ![image](https://github.com/user-attachments/assets/3412f900-d953-4bb2-8d0c-285d29195da0)
