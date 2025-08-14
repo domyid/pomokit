@@ -4,9 +4,9 @@ Disini adalah penjelasan penggunaan pomokit untuk melakukan pekerjaan tugas
 # Versi terbaru saat ini 0.2.4
 
 Syarat - Syarat untuk menggunakan nya :
-1. pastikan hanya 1 nomor whatsapp yang digunakan untuk pomodoro sama dengan nomor whatsapp yang kalian gunakan di [https://do.my.id/](https://do.my.id/)
-2. Lengkapi data kalian di [https://do.my.id/](https://do.my.id/), seperti NPM, email, dan usernamegithub. bila tidak lengkap, maka data atau nilai kalian tidak akan terinput
-3. Terakhir pastikan kalian mengunduh versi pomokit yang terbaru
+1. pastikan hanya 1 nomor whatsapp yang digunakan untuk pomodoro sama dengan nomor whatsapp yang anda gunakan di [https://do.my.id/](https://do.my.id/)
+2. Lengkapi data anda di [https://do.my.id/](https://do.my.id/), seperti NPM, email, dan usernamegithub. bila tidak lengkap, maka data atau nilai anda tidak akan terinput
+3. Terakhir pastikan kamu mengunduh versi pomokit yang terbaru
 
 # Tata cara memulai menggunakan Pomokit
 
@@ -29,7 +29,7 @@ bila anda bingung cara mendapatkan url nya, bisa anda lihat kesini untuk cara pe
 contoh : perbaiki css, pembuatan controller
 7. bila semua sudah diisi dengan benar, maka selanjutnya tahap masuk whatsapp, bila pertama kali membuka pomokit nya, maka membutuhkan login masuk WA menggunakan QR
 ![image](https://github.com/user-attachments/assets/55da9159-7644-4c65-8093-1abd2322d79e)
-8. Harap digunakan sepanjang proses pekerjaan kalian, hingga ada kalimat "Tekan Ctrl+C untuk keluar aplikasi" maka sudah terhitung 1 cycle dan silahkan dilakukan tekan ctrl +C
+8. Harap digunakan sepanjang proses pekerjaan anda, hingga ada kalimat "Tekan Ctrl+C untuk keluar aplikasi" maka sudah terhitung 1 cycle dan silahkan dilakukan tekan ctrl +C
 ![WhatsApp Image 2025-03-05 at 17 47 12_652c51db](https://github.com/user-attachments/assets/52b9e26f-cf1c-48a5-ba96-58286d3f24c3)
 9. bila ingin melanjutkan pekerjaan lagi silahkan dibuka kembali dan diulang kembali dari tahap 4
 
